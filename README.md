@@ -1,9 +1,12 @@
 # Project Name:
 <h1 align="center">Smart Health</h1>
 
-<h1 align="center">Our Teams</h1>
+<h1>Our team members</h1>
 <ul>
 <li>Shaikh Pavel Zubin Nawaz</li>
+<li>Ayan Sarkar</li>
+<li>Murtaj Rana</li>
+<li>Ritwik Sharma</li>
 
 </ul>
 <br>
