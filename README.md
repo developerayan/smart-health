@@ -154,8 +154,8 @@ In order to succeed in this field, we need to focus on customer needs such as</b
 APP was created with the help of Android Studio. Our team worked with Adobe Illustrator, Photoshop for logos and other images, Adobe After Effects for video purposes. Our team set up the Secure Sockets Layer Certificate for security. We also utilized Google Meet's API keys. For coding our team has created apps with Java, NODE JavaScript, React JavaScript languages. Our app will adopt Aggregator Business Model which has created huge success in various industries be it the hotel industry, taxi industry, groceries, home-care, home delivery, or other on-demand services, the aggregator model has disrupted each sector for better. The model flourishes around the concept of organizing an unorganized business sector and labeling it under its own brand. Using this business ecosystem, we will be able to connect buyers and sellers. We will be partnering with all types of health care services providers, like hospitals, pharmacies, diagnostic centers, vaccine centers, etc. We can bring health care closer to the customer's pocket than ever before. Furthermore, both patients and hospitals have been searching for a system that streamlines the entire process and integrates it as one.
 </p>
 </br>
-![bus](https://user-images.githubusercontent.com/80643467/179388359-c729888b-e1e8-44dd-9479-77fe17af2e08.png)
+<img src="https://user-images.githubusercontent.com/80643467/179388359-c729888b-e1e8-44dd-9479-77fe17af2e08.png">
 </br>
-![mile](https://user-images.githubusercontent.com/80643467/179388370-76e334b9-2c4e-43b8-85a7-838ba3f82252.png)
+<img src="https://user-images.githubusercontent.com/80643467/179388370-76e334b9-2c4e-43b8-85a7-838ba3f82252.png">
 
 
