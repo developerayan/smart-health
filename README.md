@@ -134,7 +134,7 @@ Some of the unique features offered by our app:
 
 </br>
 
-![stack](https://user-images.githubusercontent.com/80643467/179387851-e6f23b1a-1f85-4e80-a7db-f96d9b221707.png)
+<img src="https://user-images.githubusercontent.com/80643467/179387851-e6f23b1a-1f85-4e80-a7db-f96d9b221707.png">
 
 # Business Concept
 <p>The rapid-paced development in mobile technology offers tremendous opportunities for both the public and private sectors in the healthcare domain. Unlike other forms of communications, e.g., the Internet, the increasingly ubiquitous use of mobile technology and devices allow mobile health and wellness applications to have a greater impact on how care is delivered. 
@@ -147,7 +147,7 @@ In order to succeed in this field, we need to focus on customer needs such as</b
 5. Simple Yet Amazing Digital Experience</br>
 </p>
 </br>
-![swot](https://user-images.githubusercontent.com/80643467/179388219-b6f0c3f9-5304-494c-b4f6-816e0b417ede.png)
+<img src="https://user-images.githubusercontent.com/80643467/179388219-b6f0c3f9-5304-494c-b4f6-816e0b417ede.png">
 
 #Implementation
 <p>Our teams have designed and developed this smart health website with WordPress. We have worked on this website with the help of Google Meet API keys, a good cloud server will be used for website hosting. We have set up Secure Sockets Layer Certificate and WordFence for security and Google Maps API keys for navigation maps for both website and the mobile app. Our team worked with RazorPay, GooglePay, PaytmPay for payments. Our website was created with PHP, JavaScript, HTML, CSS, VUES, React JavaScript, Node JavaScript languages ​​for coding this website.
