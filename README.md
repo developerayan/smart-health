@@ -1,5 +1,4 @@
-# Project Name:
-<h1 align="center">Smart Health</h1>
+# Project Name: Smart Health
 
 <h1>Our team members</h1>
 <ul>
