@@ -157,5 +157,7 @@ APP was created with the help of Android Studio. Our team worked with Adobe Illu
 <img src="https://user-images.githubusercontent.com/80643467/179388359-c729888b-e1e8-44dd-9479-77fe17af2e08.png">
 </br>
 <img src="https://user-images.githubusercontent.com/80643467/179388370-76e334b9-2c4e-43b8-85a7-838ba3f82252.png">
+</br>
 
+<h3 align="center">Thank You</h3>
 
