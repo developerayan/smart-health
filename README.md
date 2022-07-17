@@ -1,10 +1,8 @@
-# Project: 
-
 <p align="center"><img alt="smart-health" src="https://user-images.githubusercontent.com/80643467/179387361-4a191577-9d7e-4d35-921d-558a7a298ac2.png"></p>
 
 </br>
 
-<h1>Our team members</h1>
+<h1>Project team members:</h1>
 <ul>
 <li>Shaikh Pavel Zubin Nawaz</li>
 <li>Ayan Sarkar</li>
@@ -116,3 +114,24 @@ Telehealth Solution Benefits For Patients:
     - Takes advantage of the technology at the leading edge of health care.
     - Access to a vast inventory of medicines, Lab services, and all other health-related requirements from the comfort of their homes, even in pandemic-lockdown     scenarios patients will have access to all eHealth services within a few clicks which would be very beneficial to senior citizens.
 
+# Market Summary 
+<p>The ongoing COVID-19 pandemic has added a new dimension to the mobile health apps market. Patients, caregivers, and medical experts relied extensively on mobile health apps for remote patient monitoring to contain the virus. Besides medical care for patients of coronavirus, these apps were extensively used for other health conditions during the pandemic. Individuals with chronic health conditions refrained from visiting health centers and hospitals for doctor consultations or follow-up visits. Collectively, this expanded the scope of growth of the mobile Health or Tele-Health apps market tremendously.Our app " Smart Health " is positioned in a market that has huge potential, the demand has risen sharply amid the COVID-19 outbreak. Our App services will be an all-in-one solution for all health-related needs, especially for the elderly.
+Our solution is scalable considering the sharp demand for health-related needs such as medicines and online doctor’s video consultation, home lab reports, etc. as many are stuck at home due to the global pandemic situation, as we know already existing telehealth services offer limited services targeting specific users and services.
+The pandemic has led to more and more people looking for solutions that can meet all their health-related requirements, and that too from the comfort of their homes, so we need to make sure we focus on :
+* Customer-centricity
+* Alignment of product development with market needs
+* A focus on delivery efficiency and effectiveness
+* An end-to-end (i.e., define, develop, operationalize, launch)
+</p>
+<p>Currently, our business is much smaller now because of our precarious financial condition, we're trying to make it bigger. We are trying to hold the opportunity this market offers us.</p>
+
+# Competition
+<p>The health apps that are currently available offer selective services, such as booking appointments with doctors and purchasing medicines. Since the pandemic, there is a greater need for all types of health services than before and it is extremely inconvenient to manage multiple applications addressing different needs. What customers need is a solution that can address all of their requirements in one place and save time. Keeping this in mind our Smart Heath aims to cater to all customer requirements
+Some of the unique features offered by our app:
+* All in one [Video consultation + eAppointment booking + ePharmary+ eLab Report]
+* The app can read prescriptions with text detection software, which automatically places medicines and lab reports prescribed by the doctor to “book your medicine” and “book your home collection” section in the app, saving a lot of time and hassle for customers.
+* All in one track feature [Vaccine, Vacant Bed, Emergency Services, Oxygen, Ambulance] availability can be tracked online via our app, Remind your medicine feature, etc.</p>
+
+</br>
+
+![stack](https://user-images.githubusercontent.com/80643467/179387851-e6f23b1a-1f85-4e80-a7db-f96d9b221707.png)
