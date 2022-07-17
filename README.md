@@ -135,3 +135,18 @@ Some of the unique features offered by our app:
 </br>
 
 ![stack](https://user-images.githubusercontent.com/80643467/179387851-e6f23b1a-1f85-4e80-a7db-f96d9b221707.png)
+
+# Business Concept
+<p>The rapid-paced development in mobile technology offers tremendous opportunities for both the public and private sectors in the healthcare domain. Unlike other forms of communications, e.g., the Internet, the increasingly ubiquitous use of mobile technology and devices allow mobile health and wellness applications to have a greater impact on how care is delivered. 
+Mobile Health involves the provision of health products, services, and information through mobile and wireless technologies. Companies and institutions in the healthcare sector are progressively proposing innovative m-health solutions that simultaneously reduce costs and improve the quality of life of citizens.
+In order to succeed in this field, we need to focus on customer needs such as</br> 
+1. Easy Access to Functionalities
+2. Detailed, Actionable Information
+3. Easy Communication with Professionals
+4. Patient Community
+5. Simple Yet Amazing Digital Experience
+
+
+
+
+</p>
