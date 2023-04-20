@@ -163,19 +163,5 @@ APP was created with the help of Android Studio. Our team worked with Adobe Illu
 
 #Our Project Model Screenshot's:
 
-
-<img src="https://user-images.githubusercontent.com/80643467/202839851-cef66370-08cb-4687-9177-b4e5e5bf995e.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839856-99aa7b8d-fbb5-4407-91c0-d9a837f2ed0c.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839859-fbb55252-3404-4545-a2ea-b67e784b827c.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839864-15860c79-c197-43c6-bcad-ee28794e707f.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839867-399a895c-999d-4421-9b9d-855989ebd4fa.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839868-afad2735-75e3-4f48-ad1a-bb81315a8b05.png">
-</br>
-<img src="https://user-images.githubusercontent.com/80643467/202839870-f26479e1-8417-4203-bbc3-f08e72e4403e.png">
 </br>
 <img src="https://user-images.githubusercontent.com/80643467/202839872-8302cfd3-b55e-4bc7-b81e-5f38bc859a7e.png">
